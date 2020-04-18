@@ -1103,7 +1103,7 @@
 7416,475,100	// Letter_Of_Recommend
 7417,475,100	// Mission_ScrollA
 7418,475,100	// Mission_ScrollB
-7420,499,100	// Skull_
+//7420,499,100	// Skull_
 7421,499,100	// Key_Red
 7422,499,100	// Key_Yellow
 7423,499,100	// Key_Blue
